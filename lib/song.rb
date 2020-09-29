@@ -19,4 +19,3 @@ class Song
     puts 'hi'
   end
 end
-© 2020 GitHub, Inc.
